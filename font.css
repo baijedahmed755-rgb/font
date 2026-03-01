@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+
+  padding: 0;
+  margin: 0;
+}
+p{
+color: aqua;
+font-family: "Saira", sans-serif;
+
+}
